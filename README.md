@@ -44,3 +44,5 @@ Contributions
 * You're allowed (and welcomed) to contribute icons to the icon theme, however, make sure to read the [wiki](https://github.com/NitruxSA/flattr-icons/wiki) to get up and close with the design guidelines.
 * When creating pull requests make sure that your local copy is up to date before pushing changes.
 * Add a preview of the icon to the pull request, in the size of the icon and a zoomed version.
+
+©2013-2015 Nitrux. All rights reserved
